@@ -1,4 +1,6 @@
-![image](https://github.com/vmeta42/.github/blob/main/meta42_logo.png)   
+![image](https://github.com/vmeta42/.github/blob/main/meta42_logo.png) 
+
+![image](https://img.shields.io/badge/license-MIT-green)  ![image](https://img.shields.io/badge/contributors-9-blue)  
 # Welcome to Meta42!
 
 With the evolution of cloud computing and cloud-native technologies, more and more services, larger cluster sizes, and more complex applications make data centers bigger and bigger. TPOS, PUE and server density pose great challenges to the management level of data centers.
@@ -9,8 +11,7 @@ With the evolution of cloud computing and cloud-native technologies, more and mo
 * Collect and manage data, especially background audio information. The data is processed on the edge side.Saving 60% bandwidth and speed up 10 times. (Kubeedge/Kubernetes)
 * Manage 1M+ sensors and 10TB+/day with Bigdata/IoT (Flink and Kubeedge)
 * Perform edge detection fault alarm reasoning and prediction with AI. Saving 2%+ energy.(Kubeflow)
-* Transmit and distribute AI models in 5 seconds. (Nats/Cefco)
-
+* Transmit and distribute AI models in 5 seconds. (Nats/Cefco)  
 
 # Core Project
 [MetaDB](https://github.com/vmeta42/metadb)  
