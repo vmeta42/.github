@@ -1,3 +1,4 @@
+![image](https://github.com/vmeta42/.github/blob/main/meta42_logo.png)   
 # Welcome to Meta42!
 
 With the evolution of cloud computing and cloud-native technologies, more and more services, larger cluster sizes, and more complex applications make data centers bigger and bigger. TPOS, PUE and server density pose great challenges to the management level of data centers.
@@ -12,17 +13,17 @@ With the evolution of cloud computing and cloud-native technologies, more and mo
 
 
 # Core Project
-[MetaDB](https://github.com/vmeta42/metadb)
-[MetaAi](https://github.com/vmeta42/metaai)
-[MetaToc](https://github.com/vmeta42/metatoc)
-[MetaEdge](https://github.com/vmeta42/metaedge)
-[MetaShow](https://github.com/vmeta42/metashow)
+[MetaDB](https://github.com/vmeta42/metadb)  
+[MetaAi](https://github.com/vmeta42/metaai)  
+[MetaToc](https://github.com/vmeta42/metatoc)  
+[MetaEdge](https://github.com/vmeta42/metaedge)  
+[MetaShow](https://github.com/vmeta42/metashow)  
 
 # Community
-Online Community Meeting (open)
-[MetaDb](https://github.com/vmeta42/metadb/wiki)
-[MetaToc](https://github.com/vmeta42/metatoc/wiki)
-[MetaShow](https://github.com/vmeta42/metashow/wiki)
+Online Community Meeting (open)  
+[MetaDb](https://github.com/vmeta42/metadb/wiki)  
+[MetaToc](https://github.com/vmeta42/metatoc/wiki)  
+[MetaShow](https://github.com/vmeta42/metashow/wiki)  
 
 
 # Contribution
