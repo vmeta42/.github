@@ -22,7 +22,7 @@ With the evolution of cloud computing and cloud-native technologies, more and mo
 
 # Community
 Online Community Meeting (open)  
-[MetaDb](https://github.com/vmeta42/metadb/wiki)  
+[MetaDB](https://github.com/vmeta42/metadb/wiki)  
 [MetaToc](https://github.com/vmeta42/metatoc/wiki)  
 [MetaShow](https://github.com/vmeta42/metashow/wiki)  
 
